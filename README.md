@@ -5,9 +5,9 @@
 
    ## 🚀 Technologies and Tools
    
-   ![My Skills](https://skillicons.dev/icons?i=html,css,git,github,vscode)
+   ![My Skills](https://skillicons.dev/icons?i=html,css,js,git,github,vscode)
    
-   🖼️ **Front-end:** HTML, CSS
+   🖼️ **Front-end:** HTML, CSS, JavaScript
    
    🛠️ **Tools**: Git, GitHub, Vscode, AI          
    
