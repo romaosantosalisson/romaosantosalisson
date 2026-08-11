@@ -1,5 +1,5 @@
 # Hi, my name is Álisson, I'm from 🇧🇷 Brazil! 👋
-   I'm Software Engineer at progress. Actually learning about how to apply my knowledges about software Engineering with AI. I still know about HTML, CSS but I will go actualizing yours also about other things e technologies and pattern in world Software Engineering.
+   I'm Software Engineer at progress 🚧. Actually learning about how to apply my knowledges about software Engineering with AI. I still know about HTML, CSS but I will go actualizing yours also about other things e technologies and pattern in world Software Engineering.
 
 ---
 
