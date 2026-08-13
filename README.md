@@ -1,6 +1,6 @@
 🇬🇧 **English Version**
 
-# Hi, my name is Álisson, I'm from 🇧🇷 Brazil! 👋
+# Hi, my name is Álisson, I'm from 🇧🇷 Brazil! 👋🏻
    I'm Software Engineer at progress 🚧. Actually learning about how to apply my knowledges about software Engineering with AI. I still know about HTML, CSS e JavaScript but I will go actualizing yours also about other things e technologies and pattern in world Software Engineering.
 
 ---
@@ -32,7 +32,7 @@
 
 🇧🇷 **Versão em Português**
 
-# Olá, meu nome é Álisson! 👋
+# Olá, meu nome é Álisson! 👋🏻
    Sou Engenheiro de Software em Progresso 🚧. Atualmente aprendendo sobre como aplicar meus conhecimentos de Engenharia de Software com IA. Também conheço HTML, CSS e JavaScript, mas vou atualizando meus conhecimentos sobre outras tecnologias, padrões e tendências no mundo da Engenharia de Software.
 
 ---
