@@ -7,9 +7,9 @@
 
    ## 🚀 Technologies and Tools
    
-   ![My Skills](https://skillicons.dev/icons?i=html,css,js,git,github,vscode)
+   ![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,git,github,vscode)
    
-   🖼️ **Front-end:** HTML, CSS, JavaScript
+   🖼️ **Front-end:** HTML, CSS, JavaScript, TypeScript
    
    🛠️ **Tools**: Git, GitHub, Vscode, AI          
    
@@ -37,11 +37,11 @@
 
    ## 🚀 Tecnologias e Ferramentas
    
-   ![My Skills](https://skillicons.dev/icons?i=html,css,js,git,github,vscode)
+   ![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,git,github,vscode)
    
-   🖼️ **Front-end:** HTML, CSS, JavaScript
+   🖼️ **Front-end:** HTML, CSS, JavaScript, TypeScript
    
-   🛠️ **Ferramentas**: Git, GitHub, Vscode, AI          
+   🛠️ **Ferramentas**: Git, GitHub, Vscode, IA         
    
 
 ---
@@ -58,6 +58,7 @@
 
 
 ##### **"Código é como humor. Quando você precisa explicar, é ruim."** - *Cory House*
+
 ---
 
 [🇧🇷 pt-BR](#olá-meu-nome-é-álisson-) | [🇬🇧 EN](#hi-my-name-is-álisson-im-from--brazil-)
