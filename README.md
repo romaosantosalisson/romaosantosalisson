@@ -1,4 +1,4 @@
-🇬🇧 **English Version**
+[🇧🇷 pt-BR](#olá-meu-nome-é-álisson-) | [🇬🇧 EN](#hi-my-name-is-álisson-im-from--brazil-)
 
 # Hi, my name is Álisson, I'm from 🇧🇷 Brazil! 👋🏻
    I'm Software Engineer at progress 🚧. Actually learning about how to apply my knowledges about software Engineering with AI. I still know about HTML, CSS e JavaScript but I will go actualizing yours also about other things e technologies and pattern in world Software Engineering.
@@ -30,8 +30,6 @@
 
 ---
 
-🇧🇷 **Versão em Português**
-
 # Olá, meu nome é Álisson! 👋🏻
    Sou Engenheiro de Software em Progresso 🚧. Atualmente aprendendo sobre como aplicar meus conhecimentos de Engenharia de Software com IA. Também conheço HTML, CSS e JavaScript, mas vou atualizando meus conhecimentos sobre outras tecnologias, padrões e tendências no mundo da Engenharia de Software.
 
@@ -55,7 +53,11 @@
    ### 📫 Vamos conversar! Entre em contato comigo pelos links abaixo:
    [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:romaosantosalisson@gmail.com)](mailto:romaosantosalisson@gmail.com)
    [![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&logo=WhatsApp&logoColor=white&link=https://wa.me/5571999893974)](https://wa.me/5571999893974)
-   
+
 ---
 
+
 ##### **"Código é como humor. Quando você precisa explicar, é ruim."** - *Cory House*
+---
+
+[🇧🇷 pt-BR](#olá-meu-nome-é-álisson-) | [🇬🇧 EN](#hi-my-name-is-álisson-im-from--brazil-)
