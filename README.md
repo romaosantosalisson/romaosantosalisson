@@ -7,9 +7,9 @@
 
    ## 🚀 Technologies and Tools
    
-   ![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,git,github,vscode)
+   ![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,git,github,vscode)
    
-   🖼️ **Front-end:** HTML, CSS, JavaScript, TypeScript
+   🖼️ **Front-end:** HTML, CSS, JavaScript, TypeScript, React
    
    🛠️ **Tools**: Git, GitHub, Vscode, AI          
    
@@ -37,9 +37,9 @@
 
    ## 🚀 Tecnologias e Ferramentas
    
-   ![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,git,github,vscode)
+   ![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,git,github,vscode)
    
-   🖼️ **Front-end:** HTML, CSS, JavaScript, TypeScript
+   🖼️ **Front-end:** HTML, CSS, JavaScript, TypeScript, React
    
    🛠️ **Ferramentas**: Git, GitHub, Vscode, IA         
    
