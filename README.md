@@ -1,5 +1,5 @@
 # Olá, meu nome é Álisson! 👋🏻
-   Sou Engenheiro de Software em Progresso 🚧. Atualmente aprendendo sobre como aplicar meus conhecimentos de Engenharia de Software com IA. Também conheço HTML, CSS e JavaScript, mas vou atualizando meus conhecimentos sobre outras tecnologias, padrões e tendências no mundo da Engenharia de Software.
+   Sou Engenheiro de Software em Progresso 🚧. Atualmente aprendendo sobre como aplicar meus conhecimentos de Engenharia de Software com IA. Também conheço HTML, CSS, JavaScript, TypeScript e React mas vou atualizando meus conhecimentos sobre outras tecnologias, padrões e tendências no mundo da Engenharia de Software.
 
 ---
 
