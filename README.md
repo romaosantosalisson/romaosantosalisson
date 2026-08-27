@@ -5,11 +5,12 @@
 
    ## 🚀 Tecnologias e Ferramentas
    
-   ![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,git,github,vscode)
+   ![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,git,github,vscode,vite)
+
    
-   🖼️ **Front-end:** HTML, CSS, JavaScript, TypeScript, React
+   🖼️ **Front-end:** HTML, CSS, Tailwind, JavaScript, TypeScript, React
    
-   🛠️ **Ferramentas**: Git, GitHub, Vscode, IA     
+   🛠️ **Ferramentas**: Git, GitHub, Vscode, IA, Vite, Zustand     
 
 ---
 
