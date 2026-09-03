@@ -38,10 +38,7 @@
    
    ![Álisson's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=romaosantosalisson&theme=dracula&date_format=M%20j%5B%2C%20Y%5D)
 
-   <p align="center">
-     <img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
-   </p>
-
+   ![Álisson's Snake Stats](https://raw.githubusercontent.com/romaosantosalisson/romaosantosalisson/output/github-contribution-grid-snake.svg)
    
 </div>
    
