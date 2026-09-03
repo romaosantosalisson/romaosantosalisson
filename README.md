@@ -34,8 +34,14 @@
 <div align="center">
    
    ![Álisson's GitHub stats](https://github-stats-extended.vercel.app/api?username=romaosantosalisson&show_icons=true&theme=dracula)
-   
    ![Álisson's Most Usage Languages](https://beautiful-github-homepage.vercel.app/api/top-langs/?username=romaosantosalisson&hide_title=false&layout=compact&theme=dracula&count_private=true)
+   
+   ![Álisson's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=romaosantosalisson&theme=dracula&date_format=M%20j%5B%2C%20Y%5D)
+
+   <p align="center">
+     <img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
+   </p>
+
    
 </div>
    
