@@ -25,14 +25,20 @@
 
 > 🚀 **Site: [Task Do It](https://romaosantosalisson.github.io/task-do-it/)** | **📦 Repositório: [Task Do It](https://github.com/romaosantosalisson/task-do-it)**
 
-> 🚀 **Site: [Basketball Scoreboard](https://romaosantosalisson.github.io/basketball-scoreboard/)** | **📦 Repositório: [Basketball Scoreboard](https://github.com/romaosantosalisson/basketball-scoreboard)**   
+> 🚀 **Site: [Basketball Scoreboard](https://romaosantosalisson.github.io/basketball-scoreboard/)** | **📦 Repositório: [Basketball Scoreboard](https://github.com/romaosantosalisson/basketball-scoreboard)**
 
 ---
 
-   ## 📊 Estatísticas do GitHub
-   
-![Álisson's GitHub stats](https://github-stats-extended.vercel.app/api?username=romaosantosalisson&show_icons=true&theme=dracula)
+## 📊 Estatísticas do GitHub
 
+<div align="center">
+   
+   ![Álisson's GitHub stats](https://github-stats-extended.vercel.app/api?username=romaosantosalisson&show_icons=true&theme=dracula)
+   
+   ![Álisson's Most Usage Languages](https://beautiful-github-homepage.vercel.app/api/top-langs/?username=romaosantosalisson&hide_title=false&layout=compact&theme=dracula&count_private=true)
+   
+</div>
+   
 ---
 
 ### 📫 Vamos conversar! Entre em contato comigo pelos links abaixo:
