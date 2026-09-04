@@ -27,6 +27,8 @@
 
 > 🚀 **Site: [Basketball Scoreboard](https://romaosantosalisson.github.io/basketball-scoreboard/)** | **📦 Repositório: [Basketball Scoreboard](https://github.com/romaosantosalisson/basketball-scoreboard)**
 
+>  🚀 **Site: [Emoji Fighters](https://romaosantosalisson.github.io/emoji-fighters/)** | **📦 Repositório: [Emoji Fighters](https://github.com/romaosantosalisson/emoji-fighters)** 
+
 ---
 
 ## 📊 Estatísticas do GitHub
