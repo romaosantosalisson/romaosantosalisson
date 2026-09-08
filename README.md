@@ -14,23 +14,9 @@
 
 ---
 
-## 📲 Projetos
+## 📲 Projeto Destaque
+
 > 🚀 **Site: [Poke Guide](https://romaosantosalisson.github.io/poke-guide/)** | **📦 Respositório: [Poke Guide](https://github.com/romaosantosalisson/poke-guide)**
-
-> 🚀 **Site: [X-Streamers Chess](https://romaosantosalisson.github.io/x-streamers/)** | **📦 Respositório: [X-Streamers Chess](https://github.com/romaosantosalisson/x-streamers)**
-
-> 🚀 **Site: [GitHub Explorer](https://romaosantosalisson.github.io/github-explorer/)** | **📦 Respositório: [GitHub Explorer](https://github.com/romaosantosalisson/github-explorer)**
-
-> 🚀 **Site: [Climax](https://romaosantosalisson.github.io/climax/)** | **📦 Respositório: [Climax](https://github.com/romaosantosalisson/climax)**
-
-> 🚀 **Site: [Task Do It](https://romaosantosalisson.github.io/task-do-it/)** | **📦 Repositório: [Task Do It](https://github.com/romaosantosalisson/task-do-it)**
-
-> 🚀 **Site: [Basketball Scoreboard](https://romaosantosalisson.github.io/basketball-scoreboard/)** | **📦 Repositório: [Basketball Scoreboard](https://github.com/romaosantosalisson/basketball-scoreboard)**
-
->  🚀 **Site: [Emoji Fighters](https://romaosantosalisson.github.io/emoji-fighters/)** | **📦 Repositório: [Emoji Fighters](https://github.com/romaosantosalisson/emoji-fighters)**
-
->  🚀 **Site: [Password Generator](https://romaosantosalisson.github.io/password-generator/)** | **📦 Repositório: [Password Generator](https://github.com/romaosantosalisson/password-generator)** 
-
 
 ---
 
