@@ -1,24 +1,46 @@
-# Olá, meu nome é Álisson! 👋🏻
-   Sou Engenheiro de Software em Progresso 🚧. Atualmente aprendendo sobre como aplicar meus conhecimentos de Engenharia de Software com IA. Também conheço HTML, CSS, JavaScript, TypeScript e React mas vou atualizando meus conhecimentos sobre outras tecnologias, padrões e tendências no mundo da Engenharia de Software.
+# Olá, meu nome é Álisson Romão! 👋🏻
 
----
+## Desenvolvedor de Software Fullstack
 
-   ## 🚀 Tecnologias e Ferramentas
+Desenvolvedor de Software apaixonado por tecnologia e interessado em construir aplicações bem estruturadas, escaláveis e de fácil manutenção.
+Atualmente estou em busca da minha primeira oportunidade profissional como Desenvolvedor de Software Fullstack.
+
+## 🚀 Sobre mim
+
+- 🎓 Técnico em Desenvolvimento de Software pelo SENAI — CETIND
+
+- 🎓 Formação em Desenvolvimento de Software Fullstack pela Cubos Academy
+
+- 💻 Estudando e desenvolvendo aplicações com TypeScript, Node.js e React
+  
+- 🏗️ Interesse em Clean Architecture e Domain-Driven Design
+  
+- 🧪 Aplicando Test-Driven Development em projetos
+  
+- 🐳 Experiência prática com Docker
+  
+- 🔄 CI/CD utilizando GitHub Actions
+  
+- 🗄️ Experiência com bancos relacionais e NoSQL
+  
+- 🌱 Sempre estudando e buscando evoluir como desenvolvedor
+
+## 🚀 Tecnologias e Ferramentas
    
-   ![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,git,github,vscode,vite)
+   ![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nodejs,express,nest,git,github,docker,vscode,vite)
 
    
-   🖼️ **Front-end:** HTML, CSS, Tailwind, JavaScript, TypeScript, React
+   🌄 **Front-end:** HTML · CSS · Tailwind · JavaScript · TypeScript · React 
+
+   ⚙️ **Back-end:** Node.js · Express · NestJS · REST API · Zod · JWT
+
+   🧮 **Banco de Dados:** PostgreSQL · MySQL · SQL Server · MongoDB · Redis
    
-   🛠️ **Ferramentas**: Git, GitHub, Vscode, IA, Vite, Zustand     
+   🛠️ **DevOps e Ferramentas:** Git · GitHub · Docker · GitHub Actions · CI/CD · Linux · Postman · Insomnia · VSCode · Vite
 
----
-
-## 📲 Projeto Destaque
+## 📌 Projetos em Destaque
 
 > 🚀 **Site: [Poke Guide](https://romaosantosalisson.github.io/poke-guide/)** | **📦 Respositório: [Poke Guide](https://github.com/romaosantosalisson/poke-guide)**
-
----
 
 ## 📊 Estatísticas do GitHub
 
