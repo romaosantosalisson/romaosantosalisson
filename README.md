@@ -27,7 +27,7 @@ Atualmente estou em busca da minha primeira oportunidade profissional como Desen
 
 ## 🚀 Tecnologias e Ferramentas
    
-   ![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nodejs,express,nest,git,github,docker,vscode,vite)
+   ![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nodejs,express,nest,postgresql,mysql,mongodb,prisma,git,github,docker,npm,yarn,vscode,vite,postman,figma)
 
    
    🌄 **Front-end:** HTML · CSS · Tailwind · JavaScript · TypeScript · React 
@@ -37,7 +37,7 @@ Atualmente estou em busca da minha primeira oportunidade profissional como Desen
    🧮 **Banco de Dados:** PostgreSQL · MySQL · SQL Server · MongoDB · Redis
    
    🛠️ **DevOps e Ferramentas:** Git · GitHub · Docker · GitHub Actions · CI/CD · Linux · Postman · Insomnia · VSCode · Vite
-
+· npm · yarn
 ## 📌 Projetos em Destaque
 
 > 🚀 **Site: [Poke Guide](https://romaosantosalisson.github.io/poke-guide/)** | **📦 Respositório: [Poke Guide](https://github.com/romaosantosalisson/poke-guide)**
