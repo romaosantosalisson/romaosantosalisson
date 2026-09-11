@@ -54,14 +54,10 @@ Atualmente estou em busca da minha primeira oportunidade profissional como Desen
    ![Álisson's Snake Stats](https://raw.githubusercontent.com/romaosantosalisson/romaosantosalisson/output/github-contribution-grid-snake.svg)
    
 </div>
-   
----
 
 ### 📫 Vamos conversar! Entre em contato comigo pelos links abaixo:
    [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:romaosantosalisson@gmail.com)](mailto:romaosantosalisson@gmail.com)
    [![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&logo=WhatsApp&logoColor=white&link=https://wa.me/5571999893974)](https://wa.me/5571999893974)
-
----
 
 ##### **"Código é como humor. Quando você precisa explicar, é ruim."** - *Cory House*
 
