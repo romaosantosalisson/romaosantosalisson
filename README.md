@@ -1,6 +1,6 @@
-# Olá, meu nome é Álisson Romão! 👋🏻
+# Olá, meu nome é Álisson! 👋🏻
 
-## Desenvolvedor de Software Fullstack
+-- ## Desenvolvedor de Software Fullstack
 
 Desenvolvedor de Software apaixonado por tecnologia e interessado em construir aplicações bem estruturadas, escaláveis e de fácil manutenção.
 Atualmente estou em busca da minha primeira oportunidade profissional como Desenvolvedor de Software Fullstack.
