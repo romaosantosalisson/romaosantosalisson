@@ -1,6 +1,6 @@
 # Olá, meu nome é Álisson! 👋🏻
 
-## 🚀 Sobre mim
+## 👨🏻‍💻 Sobre mim
 
 - 🎓 Técnico em Desenvolvimento de Software pelo SENAI — CETIND
 
